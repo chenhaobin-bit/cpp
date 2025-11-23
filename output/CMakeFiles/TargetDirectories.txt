@@ -1,0 +1,3 @@
+D:/demo1/output/CMakeFiles/MyDemo.dir
+D:/demo1/output/CMakeFiles/edit_cache.dir
+D:/demo1/output/CMakeFiles/rebuild_cache.dir
