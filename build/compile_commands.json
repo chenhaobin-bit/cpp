@@ -1,8 +1,8 @@
 [
 {
   "directory": "D:/cpp1/build",
-  "command": "D:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/MyDemo.dir/includes_CXX.rsp -g -o CMakeFiles\\MyDemo.dir\\src\\main.cpp.obj -c D:\\cpp1\\src\\main.cpp",
-  "file": "D:/cpp1/src/main.cpp",
-  "output": "CMakeFiles/MyDemo.dir/src/main.cpp.obj"
+  "command": "D:\\msys64\\mingw64\\bin\\c++.exe -ID:/cpp1/build/include -std=gnu++17 -o CMakeFiles\\MyDemo.dir\\D_\\cpp1\\src\\3.cpp.obj -c D:\\cpp1\\src\\3.cpp",
+  "file": "D:/cpp1/src/3.cpp",
+  "output": "D:/cpp1/build/CMakeFiles/MyDemo.dir/D_/cpp1/src/3.cpp.obj"
 }
 ]
